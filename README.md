@@ -1,6 +1,8 @@
 # A Benchmark Dataset for WSN
 The dataset for our paper on PE-WASUN 2018.
 
+In summary, the dataset includes about a month data for a testbed of 73 nodes, including both link level information and the full routing path of each packet. 
+
 The dataset file is a PostgreSQL dumped file generated using `pg_dump`. It can be restored to another PostgreSQL DB by running the `db_restore.sh` script. 
 
 The dataset includes a single database with three tables. The tables have the same schema as described below:
