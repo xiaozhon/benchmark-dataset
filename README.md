@@ -1,5 +1,5 @@
 # A Benchmark Dataset for WSN
-The dataset for our paper on PE-WASUN 2018.
+The dataset is for our paper on PE-WASUN 2018.
 
 In summary, the dataset includes about a month data for a testbed of 73 nodes, including both link level information and the full routing path of each packet. 
 
