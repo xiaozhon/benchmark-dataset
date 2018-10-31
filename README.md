@@ -27,4 +27,4 @@ Column Name | Data Example | Description
 *parent_id* | 61131 | The actual parent that forwards this packet
 *rest of the path* | 31301, ..., 1 | The rest node IDs along the path from the source node to the sink
 
-For more details please refer to our paper: [placeholder for the paper link]
+For more details please refer to our paper: https://www.researchgate.net/publication/328548795_Network_Dynamics_Analysis_and_Benchmarking_on_an_Outdoor_Heterogeneous_Wireless_Sensor_Network
